@@ -4,18 +4,18 @@ site_description: Backend Engineering Program — División Chimera
 theme:
   name: material
   palette:
-    - scheme: default
-      primary: deep purple
-      accent: cyan
-      toggle:
-        icon: material/weather-night
-        name: Cambiar a modo oscuro
     - scheme: slate
       primary: deep purple
       accent: cyan
       toggle:
         icon: material/weather-sunny
         name: Cambiar a modo claro
+    - scheme: default
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
   font:
     text: Inter
     code: JetBrains Mono
